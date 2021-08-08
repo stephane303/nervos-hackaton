@@ -12,7 +12,8 @@
 0x142bBfF8564EFC953455aDe4953B53583b123792
 
 ## The ABI for contract you made a call on (in text format).
-`
+```
+>>>>>>> cb9c15dbd5745688b5814b9fe4e2d5414dbde4d7
  [
     {
       "inputs": [],
